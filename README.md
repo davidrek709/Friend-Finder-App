@@ -19,3 +19,5 @@ Our 2 routing files (htmlRoutes.js and apiRoutes.js) determine the back-end logi
 Best match is calculated by finding the friend with the minimal difference in scores and then sending that friend to the browser as a JSON object
 
 A modal is then toggled, displaying the the best match to the person who just took the survey
+
+![Image description](https://github.com/davidrek709/Friend-Finder-App/blob/master/Annotation%202020-03-29%20190033.png)
