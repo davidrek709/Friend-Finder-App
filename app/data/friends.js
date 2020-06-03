@@ -6,6 +6,7 @@ var friends = [
 		scores: [4, 1, 2, 3, 2, 2, 5, 3, 1, 1]
 	},
 	{
+// 		added elon as preset
 		name: "Elon",
 		photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Elon_Musk_Royal_Society.jpg/440px-Elon_Musk_Royal_Society.jpg",
 		scores: [3, 1, 4, 4, 2, 4, 2, 5, 1, 3]
