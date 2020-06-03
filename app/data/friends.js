@@ -12,6 +12,7 @@ var friends = [
 		scores: [3, 1, 4, 4, 2, 4, 2, 5, 1, 3]
 	},
 	{
+// 		added rachel as preset
 		name: "Rachel",
 		photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Rachel_McAdams%2C_2016_%28cropped%29.jpg/440px-Rachel_McAdams%2C_2016_%28cropped%29.jpg",
 		scores: [1, 1, 5, 3, 3, 5, 1, 2, 3, 4]
