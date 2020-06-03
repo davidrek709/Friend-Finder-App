@@ -1,4 +1,5 @@
 var friends = [
+// 	added david as preset 
 	{
 		name: "David",
 		photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/David_SM_Maggiore.jpg/440px-David_SM_Maggiore.jpg",
