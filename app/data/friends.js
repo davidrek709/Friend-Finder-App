@@ -18,6 +18,7 @@ var friends = [
 		scores: [1, 1, 5, 3, 3, 5, 1, 2, 3, 4]
 	},
 	{
+// 		added kendrick as preset
 		name: "Kendrick",
 		photo: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Pulitzer2018-portraits-kendrick-lamar.jpg/440px-Pulitzer2018-portraits-kendrick-lamar.jpg",
 		scores: [3, 1, 3, 5, 2, 3, 2, 2, 5, 5]
