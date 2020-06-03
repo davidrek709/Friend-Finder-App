@@ -24,6 +24,7 @@ var friends = [
 		scores: [3, 1, 3, 5, 2, 3, 2, 2, 5, 5]
 	},
 	{
+// 		added michael as preset
 		name: "Michael",
 		photo: "https://en.wikipedia.org/wiki/File:MichaelScott.png",
 		scores: [2, 5, 4, 1, 2, 3, 3, 2, 3, 3]
